@@ -1,0 +1,29 @@
+[
+{
+	"stock_name":"MPI",
+	"open_price":"46.70",
+	"price_range":"46.65-47.80",
+	"last_price":"47.00",
+	"change": "0.44",
+	"change_percentage":"0.95",
+	"volume":"236000",
+},
+{
+	"stock_name":"PMBTECH-WA",
+	"open_price":"9.30",
+	"price_range":"9.10-9.70",
+	"last_price":"9.70",
+	"change": "0.40",
+	"change_percentage":"4.30",
+	"volume":"6800",
+},
+{
+	"stock_name":"PMBTECH",
+	"open_price":"12.20",
+	"price_range":"12.20-12.96",
+	"last_price":"12.76",
+	"change": "0.38",
+	"change_percentage":"3.07",
+	"volume":"162800",
+}
+]
