@@ -11,4 +11,4 @@ Guide to run this program :-
     - username : admin
     - password : password
 6. http://localhost:8080/api/initializeJob will start the schedule the CronJob to calculate total gainers and losers, then insert into h2 databases.
-7 
+
